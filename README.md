@@ -1,1 +1,1 @@
-# capg-bvrit-b1-health-care-management-system
+# health-care-management-system
